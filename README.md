@@ -2,7 +2,7 @@
 This java program uses the Swing UI kit to showcase to sample photos, which happen to be beautiful stock images of dogs.
 
 
-* The development of this project has been long-delayed was published only to display Java and Swing fundamentals and therefore some features currently only work with the stock images provided *
+*The development of this project has been long-delayed, and this project was published only to display Java and Swing fundamentals. Because of this, some features currently only work with the stock images provided*
 
 **Features:**
 
